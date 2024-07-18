@@ -10,12 +10,14 @@ function generatePassword() {
     }
 
     passwordInput.value = password
+    console.log(password)
+    // OK that was cool - console.log the return value from the function so it shows in the console!
 }
 
 
 
-// console.log(generatePassword)
 // console.log(password)
 
 generateButton.addEventListener('click', generatePassword)
+
 
