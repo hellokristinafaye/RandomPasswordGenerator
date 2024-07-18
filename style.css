@@ -11,5 +11,13 @@ body {
     padding: 2rem;
     /* the below is some box-shadow boiler plate we can keep at the ready */
     box-shadow: rgba(100, 100, 111,.2) 0px 7px 29px 0px;
-    
+}
+
+#generate-button {
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    background-color: #4caf50;
+    color: #fff;
+    outline: none;
+    border: none;
 }
