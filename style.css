@@ -1,3 +1,15 @@
 body {
     background-color: #ebebeb;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.password-container {
+    text-align: center;
+    margin: 3.5rem auto;
+    background-color: #fff;
+    padding: 2rem;
+    /* the below is some box-shadow boiler plate we can keep at the ready */
+    box-shadow: rgba(100, 100, 111,.2) 0px 7px 29px 0px;
+    
 }
